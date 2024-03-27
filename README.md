@@ -7,4 +7,4 @@ Python: Superstore data imported
 Python: Data cleansing and modeling for the sales forecast
 PPT: Explanation of the Results
 
-### Project Done in 2023 
+### Project done in July 2023 
