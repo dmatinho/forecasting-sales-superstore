@@ -1,6 +1,6 @@
 # SuperStore Sales Forecast
-SuperStore data used for this project is opublicly availble. 
-This reporsotory contains sales forecast for 2018 for the different category available: Technology, Furniture, and Office Supplies.
+SuperStore data used for this project is publicly available. 
+This repository contains sales forecasts for 2018 for the different categories available: Technology, Furniture, and Office Supplies.
 
 ## This repository contains:
 Python: Superstore data imported 
